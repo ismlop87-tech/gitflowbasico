@@ -1,0 +1,6 @@
+gitflowbasico
+git status
+git add 
+git status
+git commit -m "Un enunciado descriptivo del cambio"
+git push
